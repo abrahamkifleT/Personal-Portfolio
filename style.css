@@ -209,6 +209,16 @@ nav .right a span{
     .hero-section .headshot img{
         width: 300px;
     }
+
+    /* SECTION 3: TESTIMONY */
+    .testimony-section {
+        text-align: center;
+    }
+
+    .testimony-section .group{
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 @media (max-width: 600px){
