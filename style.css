@@ -104,16 +104,16 @@ nav .right a span{
     border-radius: 50%;
 }
 
-@media(max-with: 850px){
+@media(max-width: 850px){
     /* SECTION 1: HERO */
     .hero-section .text h2{
         font-size: 35px;
     }
 }
  
-@media(max-with: 740px){
+@media (max-width: 740px){
     /* SECTION 1: HERO */
-    .hero-section {
+    .hero-section{
         flex-direction: column-reverse;
     }
     .hero-section .headshot img{
